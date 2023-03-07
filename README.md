@@ -1,5 +1,7 @@
 # Ventas-de-Automoviles
-App de escritorio 👩‍💻 "Ventas de Automóviles 🚗🚙🚕, realizado con Java Swing.
+App de escritorio 👩‍💻 "Ventas de Automóviles 🚗🚙🚕
+Esta aplicación de 👩‍💻escritorio esta realizado con JPA. Se creo el CRUD en el cual se puede realizar (create,uptdate,delete) Fue realizado con : Java Swing,
+JPA , MySQL
 ![auto1](https://user-images.githubusercontent.com/91395402/223457644-a9563a32-fd8b-4d53-ae90-f96818789546.jpg)
 # Alta de Automóviles💰✅
 ![auto2](https://user-images.githubusercontent.com/91395402/223458644-1d04ceb6-5792-4983-ae07-456d55d9a896.jpg)
